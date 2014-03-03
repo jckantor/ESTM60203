@@ -1,11 +1,3 @@
-Title:	Introduction to Operations Management
-Subtitle:	Syllabus
-Author:	ESTM 60203
-Affiliation:	University of Notre Dame
-Date:	Spring, 2013
-Base Header Level:	3
-HTML header:	<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
-
 # ESTM 60203 Introduction to Applied Operations Research #
 
 *ESTM 60203: Introduction to Applied Operations Research* provides students with a an introduction to selected concepts and analytical tools of Operations Research with broad application in business and process operations. 
