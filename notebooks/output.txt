@@ -1,0 +1,5 @@
+x =   40.00 Units
+Demand =    40.00 Units
+LaborA =    40.00 Hours
+LaborB =    40.00 Hours
+profit = $3600.00

@@ -1,0 +1,35 @@
+GLPK 4.52 - SENSITIVITY ANALYSIS REPORT                                                                         Page   1
+
+Problem:    stdin
+Objective:  profit = 2600 (MAXimum)
+
+   No. Row name     St      Activity         Slack   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 profit       BS    2600.00000   -2600.00000          -Inf     2200.00000      -1.00000        .      LaborA
+                                            .               +Inf     2600.00000          +Inf          +Inf
+
+     2 demand       BS      20.00000      20.00000          -Inf         .          -10.00000    2400.00000 LaborB
+                                            .           40.00000       50.00000      20.00000    3000.00000 LaborA
+
+     3 LaborA       NU      80.00000        .               -Inf       60.00000     -20.00000    2200.00000 demand
+                                          20.00000      80.00000      100.00000          +Inf    3000.00000 x
+
+     4 LaborB       NU     100.00000        .               -Inf       80.00000     -10.00000    2400.00000 x
+                                          10.00000     100.00000      120.00000          +Inf    2800.00000 demand
+
+GLPK 4.52 - SENSITIVITY ANALYSIS REPORT                                                                         Page   2
+
+Problem:    stdin
+Objective:  profit = 2600 (MAXimum)
+
+   No. Column name  St      Activity      Obj coef   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 x            BS      20.00000      40.00000        .                -Inf      30.00000    2400.00000 LaborB
+                                            .               +Inf       40.00000      60.00000    3000.00000 LaborA
+
+     2 y            BS      60.00000      30.00000        .            20.00000      20.00000    2000.00000 LaborA
+                                            .               +Inf       80.00000      40.00000    3200.00000 LaborB
+
+End of report
