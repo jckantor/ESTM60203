@@ -10,4 +10,4 @@ Resouces
 
 ### 1. Working With Constraints ###
 
-* [Production Model with Constraints]()
+* [Production Model with Constraints](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Production%20Models%20with%20Constraints.ipynb)
