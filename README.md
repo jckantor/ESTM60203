@@ -1,2 +1,4 @@
 Resouces
 =========
+
+[Syllabus](Syllabus.md)
