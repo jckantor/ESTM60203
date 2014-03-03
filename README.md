@@ -1,4 +1,4 @@
 Resouces
 =========
 
-[Syllabus](Syllabus.md)
+[Syllabus](https://raw.github.com/jckantor/ESTM60203/master/Syllabus.md)
