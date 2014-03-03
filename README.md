@@ -1,4 +1,4 @@
 Resouces
 =========
 
-[Syllabus](Syllabus.md)
+[Syllabus](Syllabus.html)
