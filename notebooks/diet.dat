@@ -3,14 +3,14 @@ set NUTR := A B1 B2 C NA CAL ;
 set FOOD := BEEF CHK FISH HAM MCH MTL SPG TUR ;
 
 param: cost f_min f_max :=
-    BEEF  3.19 0 100
-    CHK   2.59 0 100
-    FISH  2.29 0 100
-    HAM   2.89 0 100
-    MCH   1.89 0 100
-    MTL   1.99 0 100
-    SPG   1.99 0 100
-    TUR   2.49 0 100 ;
+    BEEF  3.19 2 20
+    CHK   2.59 2 20
+    FISH  2.29 2 20
+    HAM   2.89 2 20
+    MCH   1.89 2 50
+    MTL   1.99 2 20
+    SPG   1.99 2 20
+    TUR   2.49 2 20 ;
     
 param: n_min n_max :=
     A  700 20000
