@@ -1,5 +1,47 @@
-x =   40.00 Units
-Demand =    40.00 Units
-LaborA =    40.00 Hours
-LaborB =    40.00 Hours
-profit = $3600.00
+Problem:    stdin
+Rows:       7
+Columns:    8
+Non-zeros:  55
+Status:     OPTIMAL
+Objective:  Total_Cost = 101.7440501 (MINimum)
+
+   No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 Total_Cost   B        101.744                             
+     2 Diet[A]      B        3228.81           700         20000 
+     3 Diet[B1]     B        841.962           700         20000 
+     4 Diet[B2]     NL           700           700         20000      0.425098 
+     5 Diet[C]      B        1513.57           700         20000 
+     6 Diet[NA]     NU         40000             0         40000   -0.00489562 
+     7 Diet[CAL]    B        19594.2         16000         24000 
+
+   No. Column name  St   Activity     Lower bound   Upper bound    Marginal
+------ ------------ -- ------------- ------------- ------------- -------------
+     1 Buy[BEEF]    NL             0             0           100       1.40562 
+     2 Buy[CHK]     NL             0             0           100       4.76048 
+     3 Buy[FISH]    NL             0             0           100       2.66538 
+     4 Buy[HAM]     B         5.6785             0           100 
+     5 Buy[MCH]     NL             0             0           100       1.30015 
+     6 Buy[MTL]     B         42.881             0           100 
+     7 Buy[SPG]     NL             0             0           100        2.1198 
+     8 Buy[TUR]     NL             0             0           100       5.07819 
+
+Karush-Kuhn-Tucker optimality conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.DE: max.abs.err = 8.88e-16 on column 4
+        max.rel.err = 9.35e-17 on column 4
+        High quality
+
+KKT.DB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output
