@@ -1,44 +1,42 @@
 Problem:    stdin
-Rows:       7
+Rows:       5
 Columns:    8
-Non-zeros:  55
-Status:     UNDEFINED
-Objective:  Total_Cost = 0 (MINimum)
+Non-zeros:  39
+Status:     OPTIMAL
+Objective:  Total_Cost = 88.2 (MINimum)
 
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
-     1 Total_Cost   B              0                             
-     2 Diet[A]      B              0           700         20000 
-     3 Diet[B1]     B              0           700         20000 
-     4 Diet[B2]     B              0           700         20000 
-     5 Diet[C]      B              0           700         20000 
-     6 Diet[NA]     B              0             0         40000 
-     7 Diet[CAL]    B              0         16000         24000 
+     1 Total_Cost   B           88.2                             
+     2 A            NL           700           700         10000    0.00181818 
+     3 C            B        1633.33           700         10000 
+     4 B1           B            700           700         10000 
+     5 B2           NL           700           700         10000      0.124182 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
-     1 Buy[BEEF]    NL             0             2            20         < eps
-     2 Buy[CHK]     NL             0             2            20         < eps
-     3 Buy[FISH]    NL             0             2            20         < eps
-     4 Buy[HAM]     NL             0             2            20         < eps
-     5 Buy[MCH]     NL             0             2            50         < eps
-     6 Buy[MTL]     NL             0             2            20         < eps
-     7 Buy[SPG]     NL             0             2            20         < eps
-     8 Buy[TUR]     NL             0             2            20         < eps
+     1 x[BEF]       NL             0             0                     1.21818 
+     2 x[CHK]       NL             0             0                   0.0918182 
+     3 x[FSH]       NL             0             0                     1.03364 
+     4 x[HAM]       NL             0             0                     1.57545 
+     5 x[MCH]       B        46.6667             0               
+     6 x[MTL]       B              0             0               
+     7 x[SPG]       NL             0             0                   0.0818182 
+     8 x[TUR]       NL             0             0                     1.13909 
 
 Karush-Kuhn-Tucker optimality conditions:
 
-KKT.PE: max.abs.err = 0.00e+00 on row 0
-        max.rel.err = 0.00e+00 on row 0
+KKT.PE: max.abs.err = 1.14e-13 on row 2
+        max.rel.err = 8.11e-17 on row 2
         High quality
 
-KKT.PB: max.abs.err = 1.60e+04 on row 7
-        max.rel.err = 1.00e+00 on row 7
-        PRIMAL SOLUTION IS INFEASIBLE
+KKT.PB: max.abs.err = 1.14e-13 on row 4
+        max.rel.err = 1.62e-16 on row 4
+        High quality
 
-KKT.DE: max.abs.err = 3.19e+00 on column 1
-        max.rel.err = 7.61e-01 on column 1
-        DUAL SOLUTION IS WRONG
+KKT.DE: max.abs.err = 2.22e-16 on column 1
+        max.rel.err = 6.00e-17 on column 8
+        High quality
 
 KKT.DB: max.abs.err = 0.00e+00 on row 0
         max.rel.err = 0.00e+00 on row 0
