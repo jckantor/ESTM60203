@@ -1,0 +1,39 @@
+Problem:    stdin
+Rows:       7
+Columns:    8 (8 integer, 0 binary)
+Non-zeros:  55
+Status:     INTEGER OPTIMAL
+Objective:  Total_Cost = 138.94 (MINimum)
+
+   No.   Row name        Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 Total_Cost             138.94                             
+     2 n_req[A]                 2682           700         10000 
+     3 n_req[C]                 1840           700         10000 
+     4 n_req[B1]                1360           700         10000 
+     5 n_req[B2]                 705           700         10000 
+     6 n_req[NA]               39916             0         40000 
+     7 n_req[CAL]              23630         16000         24000 
+
+   No. Column name       Activity     Lower bound   Upper bound
+------ ------------    ------------- ------------- -------------
+     1 x[BEF]       *              2             2            30 
+     2 x[CHK]       *              2             2            30 
+     3 x[FSH]       *              2             2            30 
+     4 x[HAM]       *             25             2            30 
+     5 x[MCH]       *              2             2            30 
+     6 x[MTL]       *             19             2            30 
+     7 x[SPG]       *              2             2            30 
+     8 x[TUR]       *              2             2            30 
+
+Integer feasibility conditions:
+
+KKT.PE: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+KKT.PB: max.abs.err = 0.00e+00 on row 0
+        max.rel.err = 0.00e+00 on row 0
+        High quality
+
+End of output

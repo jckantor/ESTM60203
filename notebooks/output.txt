@@ -8,10 +8,10 @@ Objective:  Total_Cost = 88.2 (MINimum)
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
      1 Total_Cost   B           88.2                             
-     2 A            NL           700           700         10000    0.00181818 
-     3 C            B        1633.33           700         10000 
-     4 B1           B            700           700         10000 
-     5 B2           NL           700           700         10000      0.124182 
+     2 n_req[A]     NL           700           700         10000    0.00181818 
+     3 n_req[C]     B        1633.33           700         10000 
+     4 n_req[B1]    B            700           700         10000 
+     5 n_req[B2]    NL           700           700         10000      0.124182 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
