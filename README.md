@@ -13,11 +13,13 @@ Resources
 
 ### 2. Modeling Business Decisions ###
 
-* [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Transportation%20Networks.ipynb)
+* [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Transportation%20Networks.ipynb)
 
 
 ### 3. Planning and Scheduling ###
 
 ### 4. Supply Chains and Dynamics ###
+* [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
+* [Warehouse Fulfillment Operations](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Warehouse%20Fulfillment%20Operations.ipynb)
 
 ### 5. Uncertainty, Risk, and Diversification
