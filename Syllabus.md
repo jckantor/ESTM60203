@@ -16,27 +16,27 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * Objectives, constraints, actual prices and shadow costs. 
 * What optimization can tell you about your business.
 
-### 2. Modeling Business Decisions ####
+### 2. Modeling Business Decisions ###
 
 * Elements of modeling business decisions.
 * How to find solution to optimization problems.
 * Mixing, assignment, transportation, flow, and other commons paradigm for business decisions.  
 * Critical Path, PERT, and other applications to project management
 
-### 3. Planning and Scheduling ####
+### 3. Planning and Scheduling ###
 
 * Job shops and flow shops
 * Empirical scheduling methods
 * Optimal scheduling for bottleneck operations
 * Vehicle routing and other logistical problems.
 
-### 4. Supply Chains and Dynamics ####
+### 4. Supply Chains and Dynamics ###
 
 * Supply chain dynamics and the role of information (Beer Game Simulation)
 * Inventory Management
 * Direct simulation of warehouse, manufacturing, and other business operations.
 
-### 5. Managing Uncertainty, Risk, and Diversification
+### 5. Uncertainty, Risk, and Diversification
 
 * Diversification of risk for asset portfolios
 * Recourse decisions, the newsvendor problem, and why there are after-Christmas sales
