@@ -17,6 +17,8 @@ Resources
 
 
 ### 3. Planning and Scheduling ###
+* [Jesuit Volunteers Corps](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Jesuit%20Volunteer%20Corps.ipynb)
+* [Machine Scheduling](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Machine%20Scheduling.ipynb)
 
 ### 4. Supply Chains and Dynamics ###
 * [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
