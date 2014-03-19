@@ -16,6 +16,7 @@ Resources
 ### 2. Modeling Business Decisions ###
 
 * [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Transportation%20Networks.ipynb)
+* [Assignment Problems](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Assignment%20Problems.ipynb)
 
 
 ### 3. Planning and Scheduling ###
