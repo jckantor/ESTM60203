@@ -32,5 +32,6 @@ Resources
 ### 5. Uncertainty, Risk, and Diversification ###
 
 * [Newsvendor Problem](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Newsvendor%20Problem.ipynb)
+* [Stochastic Price Models](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Stochastic%20Price%20Models.ipynb)
 * [Portfolio Optimization using Mean Absolute Deviation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Portfolio%20Optimization%20using%20Mean%20Absolute%20Deviation.ipynb)
 
