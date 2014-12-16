@@ -1,6 +1,6 @@
 # ESTM 60203 Introduction to Applied Operations Research #
 
-*ESTM 60203: Introduction to Applied Operations Research* provides students with a an introduction to selected concepts and analytical tools of Operations Research with broad application in business and process operations. 
+*ESTM 60203: Introduction to Applied Operations Research* is an introduction to selected concepts and analytical tools of Operations Research with broad application in business and process operations. 
 
 ## Catalog Description ##
 
@@ -10,41 +10,90 @@ Introduction to the applications of operations research including blending probl
 
 The Operations Management component of the ESTEEM program will be taught in a series of fourteen 75 minute classroom discussions. Coverage will correspond to the topics listed below, with relative emphasis and additional topics dependent on student interest.
 
-### 1. Working with Constraints
+### 1. Maximizing Profits (2 sessions) ###
 
-* What is optimization?
-* Objectives, constraints, actual prices and shadow costs. 
-* What optimization can tell you about your business.
+* What is optimization and mathematical programming? 
+* Linear objectives, constraints, reduced prices and shadow costs. 
+* The vital information that optimization can give you.
 
-### 2. Modeling Business Decisions ###
+##### Reading #####
+
+* Jonathan Eckstein. "[Note on Linear Programming](https://cb.hbsp.harvard.edu/cbmp/product/191085-PDF-ENG)," 12 pages, HBS Case 191085-PDF-ENG], revised 1992.
+* Robert J. Vanderbei, "[Chapter 1: Introduction](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-74388-2_1)" pages 1-11 in *Linear Programming: Foundations and Extentions*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* Robert Fourer, David M. Gay, and Brian W. Kernighan, "[Chapter 1: Production Models: Maximizing Profits](http://ampl.com/resources/the-ampl-book/chapter-downloads/)," pages 1-25 in *AMPL: A Modeling Language for Mathematical Programming*, Second Edition, Cengage Learning, 2002. (Available on-line for free download.)
+
+##### Exercises/Case Study #####
+
+*   Owen Hall and Kenneth Ko. "[Landhills Winery: Developing an Optimal Blending Plan](https://cb.hbsp.harvard.edu/cbmp/product/W14167-PDF-ENG),"  3 pages, HBS Case W14167-PDF-ENG, published May 21, 2014.
+
+### 2. Modeling Business Decisions (2 sessions) ###
 
 * Elements of modeling business decisions.
-* How to find solution to optimization problems.
 * Mixing, assignment, transportation, flow, and other commons paradigm for business decisions.  
-* Critical Path, PERT, and other applications to project management
 
-### 3. Planning and Scheduling ###
+##### Reading #####
+* H. Paul Williams, [*Model Building in Mathematical Programming*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118443330.html), 5th Edition, 432 pages, Wiley, 2013. (Available from [Amazon](http://www.amazon.com/Model-Building-Mathematical-Programming-Williams-ebook/dp/B00B8Y6MIG%3FSubscriptionId%3D14BJ8ZEX3WNZS76SDCG2%26tag%3Dwwwwileycom-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00B8Y6MIG).)
 
-* Job shops and flow shops
-* Empirical scheduling methods
+##### Case Study #####
+* Singfat Chu and David Ringrose. "[DHL Supply Chain](https://cb.hbsp.harvard.edu/cbmp/product/W12888-PDF-ENG)," 3 pages, HBS Case W12888-PDF-ENG, published Apr 19, 2014.
+
+### 3. Planning and Scheduling (3 sessions) ###
+
+* Flow Shops
+* Sequencing Tasks and Jobs
 * Optimal scheduling for bottleneck operations
-* Vehicle routing and other logistical problems.
+* Critical Path Method, PERT, and Critical Chain methods for project management
 
-### 4. Supply Chains and Dynamics ###
+##### Reading #####
 
+* Kenneth R. Baker, "[Sequencing: The Shortest Processing Time Rule](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_1)," pages 1-17 in *Building Intuition*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* Willy Herroelen and Roel Leus, "[On the merits and pitfalls of critical chain scheduling](http://www.sciencedirect.com.proxy.library.nd.edu/science/article/pii/S0272696301000547)," Journal of Operations Management, Vol. 19, 559-577, 2001. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+* Andreas Scherer, *Be Fast or Be Gone: Racing the Clock with Critical Chain Project Management*, 234 pages, Prochain Solutions Inc, 2011. (Available from [Amazon](http://www.amazon.com/Be-Fast-Gone-Critical-Management/dp/1934979074).)
+
+##### Case Study/Simulation #####
+
+* Ricardo Ernst. "[Operations Management Exercise: Balancing Process Capacity](https://cb.hbsp.harvard.edu/cbmp/product/4301-HTM-ENG)," Online Simulation Exercise, HBS Product Number 4301-HTM-ENG, published Jun 21, 2012.
+* Carol Prahinski and Thomas Kwan-Ho Yeung. "[Multiple Sclerosis Society of Canada: London-Grand Bend Bicycle Tour](https://cb.hbsp.harvard.edu/cbmp/product/905D14-PDF-ENG)," 7 pages, HBS Case Study 905D14-PDF-ENG, revised Sep 28, 2009
+
+### 4. Supply Chains and Dynamics (3 sessions) ###
+
+* Inventory Management, Economic Order Quantity
 * Supply chain dynamics and the role of information (Beer Game Simulation)
-* Inventory Management
 * Direct simulation of warehouse, manufacturing, and other business operations.
 
-### 5. Uncertainty, Risk, and Diversification
+##### Reading #####
 
-* Diversification of risk for asset portfolios
+* Leroy B. Schwarz, "[The Economic Order-Quantity (EOQ) Model](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_8)," pages 135-154 in *Building Intuition*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* Hau L. Lee, V. Padmandbhan, and Seungjin Wang, "[The Bullwhip Effect in Supply Chains](http://web.a.ebscohost.com.proxy.library.nd.edu/ehost/detail/detail?sid=b15ab7db-fa11-4ed2-87f2-f164e26e1a40%40sessionmgr4001&vid=0&hid=4214&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=9712170320)," Sloan Management Review, Vol. 38, 93-102, 1997. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+
+##### Case Study/Simulation Exercise #####
+
+* HBSP. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
+
+### 5. Uncertainty and Risk (4 sessions) ###
+
 * Recourse decisions, the newsvendor problem, and why there are after-Christmas sales
-* Hedging Risk 
+* Decision Trees
+* Modeling Aversion to Risk with Utility Functions
+* Log-Optimal Growth
+* Stochastic Price Models
 * Real Options Analysis
 
+##### Reading #####
 
-## Instructor #
+* Evan V. Porteus, "[The Newsvendor Problem](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_7)," pages 115-134 in *Building Intuition*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* Frank K. Crundwell, "[Decision Tree Analysis and Utility Theory](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_14)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* William Poundstone. *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*,  Hill and Wang, 2008. (Available from [Amazon](http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos-ebook/dp/B000SBTWNC/ref=pd_sim_kstore_4?ie=UTF8&refRID=0BWSMTMXW8037RE9ATZR))
+* Frank K. Crundwell, "[Real Options Analysis](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+* Tom Copeland and Peter Tufano, "[Real-World Way to Manage Real Options](https://cb.hbsp.harvard.edu/cbmp/product/R0403G-PDF-ENG)," Case R0403G-PDF-ENG, published Mar 1, 2004.
+
+
+##### Case Study #####
+
+* Richard L. Shockley, "The Option Value of an Early-Stage Biotechnology Investment," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+
+
+## Instructor ##
 
 **Instructor:**  Jeffrey Kantor
 
@@ -77,6 +126,9 @@ Case Studies:
 * [Merton Truck Co., Harvard Business School Case Study 189163-PDF-ENG](http://hbr.org/product/merton-truck-co/an/189163-PDF-ENG)
 * [Australian Motors Ltd., Harvard Business School Case Study OIT23-PDF-ENG](http://hbr.org/product/australian-motors-ltd/an/OIT23-PDF-ENG)
 * [Optimization Modeling Exercises, Harvard Business School Case Study UV0432-PDF-ENG](http://hbr.org/product/optimization-modeling-exercises/an/UV0432-PDF-ENG)
+* Janice H. Hammond. "[Beer Game: Board Version](https://cb.hbsp.harvard.edu/cbmp/product/694104-PDF-ENG)," 9 pages, HBS Case Study 905D14-PDF-ENG, revised Oct 27, 1999.
+* [Introduction to Real Options](https://cb.hbsp.harvard.edu/cbmp/product/905N15-PDF-ENG)
+* [Investment Opportunities as Real Options: Getting Started on the Numbers](https://cb.hbsp.harvard.edu/cbmp/product/98404-PDF-ENG)
 
 Other Materials:
 
@@ -84,6 +136,7 @@ Other Materials:
 * [The Beer Game](http://www.beergame.org/).  Teaching experiences are described [here.](https://domino.fov.uni-mb.si/proceedings.nsf/. 0/5ee189e0c08b6a98c1257482003c58d5/$FILE/45Riemer.pdf)
 * Lectures on Linear Programming
 	* Gilbert Strang: [Linear Programming and Duality](http://www.academicearth.org/lectures/linear-programming-and-duality)
+* Arthur V. Hill, "[The Newvendor Problem](http://www.clamshellbeachpress.com/downloads/newsvendor_problem.pdf)," Clamshell Beach Press, CBP WP 57-23, 2011. (Available as a free download from Clamshell Beach Press.)
 * [Applications of Optimization with Xpress-MP](http://www.dashoptimization.com/home/downloads/book/booka4.pdf) by Christelle Gueret, Christian Prins, and Marc Sevaux. Translated and revised by Susanne Heipcke. Published in 2002 by Dash Optimization, ISBN 0-9543503-0-8. Available from Amazon.com . Examples from this text can be downloaded from the FICO website.
 * Other Links
 	* [Dick Barr's Operations Research Toolkit](http://lyle.smu.edu/~barr/ortoolkit/)
@@ -93,7 +146,7 @@ Other Materials:
 
 ## Assignments ##
 
-As part of the learning experience, students will develop models for three case studies, some additional exercises, and develop an application in their own area of interest.
+Assignments are integral part of the learning experience. Students will develop and solve models for case studies, some additional exercises, and develop an application in their own area of interest.
 
 ## Learning Outcomes
 
