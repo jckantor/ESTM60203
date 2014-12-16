@@ -104,11 +104,13 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * [Kantor.1@nd.edu](mailto:Kantor.1@nd.edu) -- *this is the best way to reach me*
 *  574-699-3525 (Google Voice) / 574-532-4233 (Mobile) / 574-631-5797 (Office) 
 
-## Texts and Other Materials #
+## Other Materials #
 
+<!---
 ### Primary Text ###
 
 *Operations Management 10/e* by Jay Heizer and Barry Render. Published in 2008 by Pearson Education. ([amazon hardcover](http://www.amazon.com/Operations-Management-10th-Edition-Heizer/dp/0136119417)) ([amazon paperback](http://www.amazon.com/Operations-Management-Flexible-Version-Edition/dp/0132163926/))
+-->
 
 
 ### Software ##
@@ -121,7 +123,8 @@ A key objective of this course is to provide students with the skills necessary 
 
 ### Supplementary Materials ##
 
-Case Studies:
+<!---
+ Case Studies:
 
 * [Merton Truck Co., Harvard Business School Case Study 189163-PDF-ENG](http://hbr.org/product/merton-truck-co/an/189163-PDF-ENG)
 * [Australian Motors Ltd., Harvard Business School Case Study OIT23-PDF-ENG](http://hbr.org/product/australian-motors-ltd/an/OIT23-PDF-ENG)
@@ -131,6 +134,7 @@ Case Studies:
 * [Investment Opportunities as Real Options: Getting Started on the Numbers](https://cb.hbsp.harvard.edu/cbmp/product/98404-PDF-ENG)
 
 Other Materials:
+-->
 
 * Goldratt, Eliyahu M.; Jeff Cox. [*The Goal: A Process of Ongoing Improvement.*](http://www.amazon.com/Goal-Eliyahu-M-Goldratt/dp/0884271951) Great Barrington, MA.: North River Press. ISBN 0-88427-061-0.
 * [The Beer Game](http://www.beergame.org/).  Teaching experiences are described [here.](https://domino.fov.uni-mb.si/proceedings.nsf/. 0/5ee189e0c08b6a98c1257482003c58d5/$FILE/45Riemer.pdf)
