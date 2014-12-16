@@ -87,10 +87,10 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * Frank K. Crundwell, "[Real Options Analysis](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
 * Tom Copeland and Peter Tufano, "[Real-World Way to Manage Real Options](https://cb.hbsp.harvard.edu/cbmp/product/R0403G-PDF-ENG)," Case R0403G-PDF-ENG, published Mar 1, 2004.
 
-
 ##### Case Study #####
 
-* Richard L. Shockley, "The Option Value of an Early-Stage Biotechnology Investment," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+* Andrew G. Sutherland and Jeffrey R. Williams, "Valuing Real Options: Insights from Competitive Strategy," pages 334-366 in *The Valuation Handbook: Valuation Techniques from Today's Top Practitioners*, ed. Rawley Thomas and Benten E. Gup, Wiley, 2010. (Available as a teaching preprint from [Research Showcase @ CMU](http://repository.cmu.edu/tepper/540/) at the Tepper School of Business, Carnegie-Mellon University.)
+* Richard L. Shockley, "[The Option Value of an Early-Stage Biotechnology Investment](http://onlinelibrary.wiley.com.proxy.library.nd.edu/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract)," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
 
 
 ## Instructor ##
