@@ -12,11 +12,11 @@ The Operations Management component of the ESTEEM program will be taught in a se
 
 ### 1. Maximizing Profits (2 sessions) ###
 
-If you have ever needed to fit one more task into an overbooked calendar, or one more item into an overtaxed budget, the you can understand the difficult decisions one makes when working in a tightly constrained situations. Working against constraints requires that you make tradeoffs between good alternatives, and that you understand the penalties the constraints impose on acheiving an objective, and the relationships between decisions and objectives.
+If you have ever needed to fit one more task into an overbooked calendar, or one more item into an overtaxed budget, then you  understand the difficult decisions one makes when working in tightly constrained situations. Working against constraints requires that you make tradeoffs between good alternatives, that you understand the penalties imposed on an objective by the constraints, and the relationships between decisions and objectives.
 
-In this unit we look at the problem of maximizing profits subject to linear relationships between resources, constraints, and objectives. We will see that maximizing profits means operating against constraints. When operating at conditions for maximum profit, we can calculate the value of additional resources (i.e., the 'shadow prices'), the cost of changing the product mix (i.e, the 'opportunity' or 'reduced' costs), and gain important insights on how profits could be increased.
+In this unit we examine the problem of maximizing profits subject to linear relationships between resources, constraints, and objectives. We will see that maximizing profits means operating against constraints. When operating at conditions for maximum profit, we can calculate the value of additional resources (i.e., the 'shadow prices'), the cost of changing the product mix (i.e, the 'opportunity' or 'reduced' costs), and thereby gain important insights on how profits could be increased.
 
-The unit will comprise two class sessions, the first outlining concepts and how to specify linear programming problems in a mathematical programming language [MathProg](http://www3.nd.edu/~jeff/mathprog/mathprog.html), and the second analyzing the outcome for a case study on maxmizing profits for a wine blending operation.
+The unit will comprise two class sessions, the first outlining concepts and how to specify linear programming problems in a mathematical programming language [MathProg](http://www3.nd.edu/~jeff/mathprog/mathprog.html). Students will work in teams to apply these techniques to a wine blending operation. The second class session will review the results, and discuss the business implications.
 
 * What is optimization and mathematical programming? 
 * Linear objectives, decision variables, constraints, 'reduced' costs and 'shadow' prices. 
