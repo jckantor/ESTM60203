@@ -1,7 +1,7 @@
 Resources
 =========
 
-[Syllabus](Syllabus.html)
+[Syllabus](Syllabus.md)
 
 ### 0. Getting Started ###
 
