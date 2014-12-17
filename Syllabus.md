@@ -24,12 +24,12 @@ The unit will comprise two class sessions, the first outlining concepts and how 
 
 ##### Reading #####
 
-* Jonathan Eckstein. "[Note on Linear Programming](https://cb.hbsp.harvard.edu/cbmp/product/191085-PDF-ENG)," 12 pages, HBS Case 191085-PDF-ENG, revised Nov 4, 1992.
-* Robert Fourer, David M. Gay, and Brian W. Kernighan. "[Chapter 1: Production Models: Maximizing Profits](http://ampl.com/resources/the-ampl-book/chapter-downloads/)," pages 1-25 in *AMPL: A Modeling Language for Mathematical Programming*, Second Edition, Cengage Learning, 2002. (Available on-line for free download.)
+1. Jonathan Eckstein. "[Note on Linear Programming](https://cb.hbsp.harvard.edu/cbmp/product/191085-PDF-ENG)," 12 pages, HBS Case 191085-PDF-ENG, revised Nov 4, 1992.
+1. Robert Fourer, David M. Gay, and Brian W. Kernighan. "[Chapter 1: Production Models: Maximizing Profits](http://ampl.com/resources/the-ampl-book/chapter-downloads/)," pages 1-25 in *AMPL: A Modeling Language for Mathematical Programming*, Second Edition, Cengage Learning, 2002. (Available on-line for free download.)
 
-##### Exercises/Case Study #####
+##### Case Study #####
 
-*   Owen Hall and Kenneth Ko. "[Landhills Winery: Developing an Optimal Blending Plan](https://cb.hbsp.harvard.edu/cbmp/product/W14167-PDF-ENG),"  3 pages, HBS Case W14167-PDF-ENG, published May 21, 2014.
+1.   Owen Hall and Kenneth Ko. "[Landhills Winery: Developing an Optimal Blending Plan](https://cb.hbsp.harvard.edu/cbmp/product/W14167-PDF-ENG),"  3 pages, HBS Case W14167-PDF-ENG, published May 21, 2014.
 
 ### 2. Modeling Business Decisions (2 sessions) ###
 
@@ -41,10 +41,12 @@ The unit will comprise two class sessions. In the first we will survey several b
 * Mixing, assignment, transportation, flow, and other commons paradigm for business decisions.  
 
 ##### Reading #####
-* H. Paul Williams. [*Model Building in Mathematical Programming*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118443330.html), 5th Edition, 432 pages, Wiley, 2013. (Available from [Amazon](http://www.amazon.com/Model-Building-Mathematical-Programming-Williams-ebook/dp/B00B8Y6MIG%3FSubscriptionId%3D14BJ8ZEX3WNZS76SDCG2%26tag%3Dwwwwileycom-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00B8Y6MIG).)
+
+1. H. Paul Williams. [*Model Building in Mathematical Programming*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118443330.html), 5th Edition, 432 pages, Wiley, 2013. (Available from [Amazon](http://www.amazon.com/Model-Building-Mathematical-Programming-Williams-ebook/dp/B00B8Y6MIG%3FSubscriptionId%3D14BJ8ZEX3WNZS76SDCG2%26tag%3Dwwwwileycom-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00B8Y6MIG).)
 
 ##### Case Study #####
-* Singfat Chu and David Ringrose. "[DHL Supply Chain](https://cb.hbsp.harvard.edu/cbmp/product/W12888-PDF-ENG)," 3 pages, HBS Case W12888-PDF-ENG, published Apr 19, 2014.
+
+1. Singfat Chu and David Ringrose. "[DHL Supply Chain](https://cb.hbsp.harvard.edu/cbmp/product/W12888-PDF-ENG)," 3 pages, HBS Case W12888-PDF-ENG, published Apr 19, 2014.
 
 ### 3. Planning and Scheduling (3 sessions) ###
 
@@ -58,14 +60,14 @@ The first class session will be devoted to an in-class simulation of a car wash 
 
 ##### Reading #####
 
-* Andreas Scherer. *Be Fast or Be Gone: Racing the Clock with Critical Chain Project Management*, 234 pages, Prochain Solutions Inc, 2011. (Available from [Amazon](http://www.amazon.com/Be-Fast-Gone-Critical-Management/dp/1934979074).)
-* Willy Herroelen and Roel Leus. "[On the merits and pitfalls of critical chain scheduling](http://www.sciencedirect.com.proxy.library.nd.edu/science/article/pii/S0272696301000547)," Journal of Operations Management, Vol. 19, 559-577, 2001. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
-* Kenneth R. Baker. "[Sequencing: The Shortest Processing Time Rule](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_1)," pages 1-17 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Andreas Scherer. *Be Fast or Be Gone: Racing the Clock with Critical Chain Project Management*, 234 pages, Prochain Solutions Inc, 2011. (Available from [Amazon](http://www.amazon.com/Be-Fast-Gone-Critical-Management/dp/1934979074).)
+1. Willy Herroelen and Roel Leus. "[On the merits and pitfalls of critical chain scheduling](http://www.sciencedirect.com.proxy.library.nd.edu/science/article/pii/S0272696301000547)," Journal of Operations Management, Vol. 19, 559-577, 2001. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+1. Kenneth R. Baker. "[Sequencing: The Shortest Processing Time Rule](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_1)," pages 1-17 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
 
 ##### Case Study/Simulation #####
 
-* Ricardo Ernst. "[Operations Management Exercise: Balancing Process Capacity](https://cb.hbsp.harvard.edu/cbmp/product/4301-HTM-ENG)," Online Simulation Exercise, HBS Product Number 4301-HTM-ENG, published Jun 21, 2012.
-* Carol Prahinski and Thomas Kwan-Ho Yeung. "[Multiple Sclerosis Society of Canada: London-Grand Bend Bicycle Tour](https://cb.hbsp.harvard.edu/cbmp/product/905D14-PDF-ENG)," 7 pages, HBS Case Study 905D14-PDF-ENG, revised Sep 28, 2009
+1. Ricardo Ernst. "[Operations Management Exercise: Balancing Process Capacity](https://cb.hbsp.harvard.edu/cbmp/product/4301-HTM-ENG)," Online Simulation Exercise, HBS Product Number 4301-HTM-ENG, published Jun 21, 2012.
+1. Carol Prahinski and Thomas Kwan-Ho Yeung. "[Multiple Sclerosis Society of Canada: London-Grand Bend Bicycle Tour](https://cb.hbsp.harvard.edu/cbmp/product/905D14-PDF-ENG)," 7 pages, HBS Case Study 905D14-PDF-ENG, revised Sep 28, 2009
 
 ### 4. Supply Chains and Dynamics (3 sessions) ###
 
@@ -79,12 +81,12 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 ##### Reading #####
 
-* Leroy B. Schwarz. "[The Economic Order-Quantity (EOQ) Model](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_8)," pages 135-154 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-* Hau L. Lee, V. Padmandbhan, and Seungjin Wang. "[The Bullwhip Effect in Supply Chains](http://web.a.ebscohost.com.proxy.library.nd.edu/ehost/detail/detail?sid=b15ab7db-fa11-4ed2-87f2-f164e26e1a40%40sessionmgr4001&vid=0&hid=4214&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=9712170320)," Sloan Management Review, Vol. 38, 93-102, 1997. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+1. Leroy B. Schwarz. "[The Economic Order-Quantity (EOQ) Model](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_8)," pages 135-154 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Hau L. Lee, V. Padmandbhan, and Seungjin Wang. "[The Bullwhip Effect in Supply Chains](http://web.a.ebscohost.com.proxy.library.nd.edu/ehost/detail/detail?sid=b15ab7db-fa11-4ed2-87f2-f164e26e1a40%40sessionmgr4001&vid=0&hid=4214&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=9712170320)," Sloan Management Review, Vol. 38, 93-102, 1997. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
 
-##### Case Study/Simulation Exercise #####
+##### Simulation #####
 
-* HBSP. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
+1. HBSP. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
 
 ### 5. Uncertainty and Financial Risk (4 sessions) ###
 
@@ -103,16 +105,16 @@ Following the last session, students will be asked to use these concepts to prep
 
 ##### Reading #####
 
-* Evan V. Porteus. "[The Newsvendor Problem](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_7)," pages 115-134 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-* Frank K. Crundwell. "[Decision Tree Analysis and Utility Theory](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_14)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-* William Poundstone. *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*,  Hill and Wang, 2008. (Available from [Amazon](http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos-ebook/dp/B000SBTWNC/ref=pd_sim_kstore_4?ie=UTF8&refRID=0BWSMTMXW8037RE9ATZR))
-* Frank K. Crundwell. "[Real Options Analysis](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-* Tom Copeland and Peter Tufano. "[Real-World Way to Manage Real Options](https://cb.hbsp.harvard.edu/cbmp/product/R0403G-PDF-ENG)," Case R0403G-PDF-ENG, published Mar 1, 2004.
+1. Evan V. Porteus. "[The Newsvendor Problem](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_7)," pages 115-134 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Frank K. Crundwell. "[Decision Tree Analysis and Utility Theory](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_14)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. William Poundstone. *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*,  Hill and Wang, 2008. (Available from [Amazon](http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos-ebook/dp/B000SBTWNC/ref=pd_sim_kstore_4?ie=UTF8&refRID=0BWSMTMXW8037RE9ATZR))
+1. Frank K. Crundwell. "[Real Options Analysis](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Tom Copeland and Peter Tufano. "[Real-World Way to Manage Real Options](https://cb.hbsp.harvard.edu/cbmp/product/R0403G-PDF-ENG)," Harvard Business Review, 82(3), 90-99, 2004. Available as Harvard Business School Case R0403G-PDF-ENG, 11 pages, published Mar 1, 2004.
 
 ##### Case Study #####
 
-* Andrew G. Sutherland and Jeffrey R. Williams. "Valuing Real Options: Insights from Competitive Strategy," pages 334-366 in *The Valuation Handbook: Valuation Techniques from Today's Top Practitioners*, ed. Rawley Thomas and Benten E. Gup, Wiley, 2010. (Available as a teaching preprint from [Research Showcase @ CMU](http://repository.cmu.edu/tepper/540/) at the Tepper School of Business, Carnegie-Mellon University.)
-* Richard L. Shockley. "[The Option Value of an Early-Stage Biotechnology Investment](http://onlinelibrary.wiley.com.proxy.library.nd.edu/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract)," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+1. Andrew G. Sutherland and Jeffrey R. Williams. "Valuing Real Options: Insights from Competitive Strategy," pages 334-366 in *The Valuation Handbook: Valuation Techniques from Today's Top Practitioners*, ed. Rawley Thomas and Benten E. Gup, Wiley, 2010. (Available as a teaching preprint from [Research Showcase @ CMU](http://repository.cmu.edu/tepper/540/) at the Tepper School of Business, Carnegie-Mellon University.)
+1. Richard L. Shockley. "[The Option Value of an Early-Stage Biotechnology Investment](http://onlinelibrary.wiley.com.proxy.library.nd.edu/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract)," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
 
 
 ## Instructor ##
