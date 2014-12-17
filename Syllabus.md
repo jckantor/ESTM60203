@@ -1,6 +1,3 @@
----
-title: Syllabus
----
 # ESTM 60203 Introduction to Applied Operations Research #
 
 *ESTM 60203: Introduction to Applied Operations Research* is an introduction to selected concepts and analytical tools of Operations Research with broad application in business and process operations. 
