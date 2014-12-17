@@ -1,3 +1,6 @@
+---
+title: Syllabus
+---
 # ESTM 60203 Introduction to Applied Operations Research #
 
 *ESTM 60203: Introduction to Applied Operations Research* is an introduction to selected concepts and analytical tools of Operations Research with broad application in business and process operations. 
@@ -69,7 +72,7 @@ The first class session will be devoted to an in-class simulation of a car wash 
 1. Ricardo Ernst. "[Operations Management Exercise: Balancing Process Capacity](https://cb.hbsp.harvard.edu/cbmp/product/4301-HTM-ENG)," Online Simulation Exercise, HBS Product Number 4301-HTM-ENG, published Jun 21, 2012.
 1. Carol Prahinski and Thomas Kwan-Ho Yeung. "[Multiple Sclerosis Society of Canada: London-Grand Bend Bicycle Tour](https://cb.hbsp.harvard.edu/cbmp/product/905D14-PDF-ENG)," 7 pages, HBS Case Study 905D14-PDF-ENG, revised Sep 28, 2009
 
-### 4. Supply Chains and Dynamics (3 sessions) ###
+### 4. Understanding Supply Chain Dynamics (3 sessions) ###
 
 Supply chains refers to system of suppliers, distribution channels, and logistical operations that allow a business to produce goods and deliver them to market. Maintaing flexible and efficient supply chains are critical to modern operations. This unit will introduce basic concepts in inventory management, the causes of unstable dynamical behavior in supply chains, and tools for simulating the performance of complex operations.
 
@@ -88,7 +91,7 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 1. HBSP. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
 
-### 5. Uncertainty and Financial Risk (4 sessions) ###
+### 5. Tools for Managing Uncertainty and Risk (4 sessions) ###
 
 The final unit of the course focuses on making operational decisions in the face of financial uncertainties. The topics address issues of information, the critical distinction between 'here-and-now' decisions versus 'wait-and-see' decisions, measuring financial risk, and balancing risk and return when making operational decisions. Basic concepts of probability, expected value, and economic utility will be used to demonstrate the profound difference between optimzing for average wealth versus growth. The concepts will be applied to analyzing the 'real options' present in many business situations.
 
