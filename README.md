@@ -10,9 +10,9 @@ Resources
 
 ### 1. Working with Constraints  ###
 
-* What Optimization can tell you about your business.
 * [Production Model with Constraints](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Production%20Models%20with%20Constraints.ipynb)
 * [Optimal Mixture and Blending Problems](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Optimal%20Mixture%20and%20Blending%20Problems.ipynb)
+* What Optimization can tell you about your business.
 
 ### 2. Modeling Business Decisions ###
 
