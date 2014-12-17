@@ -18,10 +18,10 @@ Resources
 
 * [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Transportation%20Networks.ipynb)
 * [Assignment Problems](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Assignment%20Problems.ipynb)
-* Critical Path, PERT, and other applications fo Project Management
 
 ### 3. Planning and Scheduling ###
 
+* Critical Path, PERT, and other applications fo Project Management
 * Empirical Scheduling Methods
 * [Machine and Job Shop Scheduling](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Machine%20Scheduling.ipynb)
 * [Jesuit Volunteers Corps](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Jesuit%20Volunteer%20Corps.ipynb)
@@ -29,8 +29,8 @@ Resources
 
 ### 4. Supply Chains and Dynamics ###
 
-* Supply chain dynamics and the role of information (Beer Game Simulation)
 * Inventory Management
+* Supply chain dynamics and the role of information (Root Beer Game Simulation)
 * [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
 * [Warehouse Fulfillment Operations](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Warehouse%20Fulfillment%20Operations.ipynb)
 
