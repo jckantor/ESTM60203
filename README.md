@@ -1,10 +1,8 @@
-Resources
+Syllabus
 =========
 
 * [Course Syllabus](https://github.com/jckantor/ESTM60203/blob/master/Syllabus.md)
 
-Notebooks
-=========
 
 ### 0. Getting Started ###
 
