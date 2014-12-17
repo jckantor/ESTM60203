@@ -61,8 +61,9 @@ The first class session will be devoted to an in-class simulation of a car wash 
 ##### Reading #####
 
 1. Andreas Scherer. *Be Fast or Be Gone: Racing the Clock with Critical Chain Project Management*, 234 pages, Prochain Solutions Inc, 2011. (Available from [Amazon](http://www.amazon.com/Be-Fast-Gone-Critical-Management/dp/1934979074).)
-1. Willy Herroelen and Roel Leus. "[On the merits and pitfalls of critical chain scheduling](http://www.sciencedirect.com.proxy.library.nd.edu/science/article/pii/S0272696301000547)," Journal of Operations Management, Vol. 19, 559-577, 2001. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
-1. Kenneth R. Baker. "[Sequencing: The Shortest Processing Time Rule](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_1)," pages 1-17 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Willy Herroelen and Roel Leus. "[On the merits and pitfalls of critical chain scheduling](http://www.sciencedirect.com/science/article/pii/S0272696301000547)," Journal of Operations Management, Vol. 19, 559-577, 2001. (Available [here](http://www.sciencedirect.com.proxy.library.nd.edu/science/article/pii/S0272696301000547) to Notre Dame students and faculty through Hesburgh Library.)
+1. Kenneth R. Baker. "[Sequencing: The Shortest Processing Time Rule](http://link.springer.com/chapter/10.1007/978-0-387-73699-0_1)," pages 1-17 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available [here](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_1) to Notre Dame students and faculty through Hesburgh Library.)
+
 
 ##### Case Study/Simulation #####
 
