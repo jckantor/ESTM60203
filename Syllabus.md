@@ -35,7 +35,7 @@ The unit will comprise two class sessions, the first outlining concepts and how 
 
 Many logistical and production problems can be formulated and solved as linear programs. This unit will extend the skills learned in the earlier unit to several categories of operational problems that arise in business applications. The text used for this unit is the latest edition of a classic reference on the formulation of mathematical programs for practical applications. (See [here](http://www.statisticsviews.com/details/feature/4566481/Model-Building-in-Mathematical-Programming-published-in-fifth-edition.html) for background on the book and author).
 
-The unit will comprise two class sessions. In the first we will survey several broad categories of applications, including blending, transportation, and assignment problems, with [solved examples](http://jckantor.github.io/ESTM60203/). Working in teams, students will then formulate and solve a model for the DHL Supply Chain case study. The second class session will review student solutions, discuss alternative formulations, and analyze the solution for  insights about logistical operations.
+The unit will comprise two class sessions. In the first we will survey several broad categories of applications, including blending, transportation, and assignment problems, with [solved examples](http://jckantor.github.io/ESTM60203/). Working in teams, students will then formulate and solve a model for the DHL Supply Chain case study. The second class session will review student solutions, discuss alternative formulations, and analyze the solutions for insights about logistical operations with multiple objectives.
 
 * Elements of modeling business decisions.
 * Mixing, assignment, transportation, flow, and other commons paradigm for business decisions.  
@@ -50,9 +50,9 @@ The unit will comprise two class sessions. In the first we will survey several b
 
 ### 3. Planning and Scheduling (3 sessions) ###
 
-This unit addresses the issues of organizing tasks to meet deadlines, allocating services to meet customer demand in a flow shop, optimal scheduling for a limiting resource, and creating and managing schedules for complex projects. The focus will be on simple, practical techniques for handling common situations that arise in business and professional life.
+This unit looks into the problems of organizing tasks to meet deadlines, allocating services to meet customer demand in a flow shop, optimal scheduling for a limiting resource, and creating and managing schedules for complex projects. The unit focuses on simple, practical techniques for handling common situations arising in business and professional life.
 
-The first class session will be devoted to an in-class simulation of a car wash business. The challenge is to allocate limited resources to meet demand during periods of steady customer flow, and during periods of peak demand. The second session will be based on a discussion on project management methods demonstrated in a short novel by Andreas Scherer, and introduce critical path and critical chain methods for project management. Students will break into teams to apply those methods to a project management case study. The third class session will introduce empirical and mathematical programming based methods of scheduling for a process bottleneck.
+The first class session will be devoted to an in-class simulation of a car wash business. The challenge is to allocate limited resources to meet demand during periods of steady customer flow, and during periods of peak demand. The second session will be based on a discussion on project management methods demonstrated in a short novel by Andreas Scherer, and introduce critical path and critical chain methods for project management. Students will break into teams to apply those methods to a project management case study. The third class session introduces empirical and optimization based methods of scheduling for process bottlenecks.
 
 * Flow Shops
 * Critical Path Method, PERT, and Critical Chain methods for project management
@@ -86,9 +86,9 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 ##### Simulation #####
 
-1. HBSP. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
+1. Harvard Business School Press. "[Supply Chain Management Simulation: Root Beer Game V2](https://cb.hbsp.harvard.edu/cbmp/product/6619-HTM-ENG?R=6619-HTM-ENG)," Online Simulation Exercise, HBS Product Number 6619-HTM-ENG, published Jul 5, 2012.
 
-### 5. Tools for Managing Uncertainty and Risk (4 sessions) ###
+### 5. Techniques for Managing Uncertainty and Risk (4 sessions) ###
 
 The final unit of the course focuses on making operational decisions in the face of financial uncertainties. The topics address issues of information, the critical distinction between 'here-and-now' decisions versus 'wait-and-see' decisions, measuring financial risk, and balancing risk and return when making operational decisions. Basic concepts of probability, expected value, and economic utility will be used to demonstrate the profound difference between optimzing for average wealth versus growth. The concepts will be applied to analyzing the 'real options' present in many business situations.
 
@@ -130,12 +130,6 @@ Following the last session, students will be asked to use these concepts to prep
 
 ## Other Materials #
 
-<!---
-### Primary Text ###
-
-*Operations Management 10/e* by Jay Heizer and Barry Render. Published in 2008 by Pearson Education. ([amazon hardcover](http://www.amazon.com/Operations-Management-10th-Edition-Heizer/dp/0136119417)) ([amazon paperback](http://www.amazon.com/Operations-Management-Flexible-Version-Edition/dp/0132163926/))
--->
-
 
 ### Software ##
 
@@ -172,7 +166,6 @@ Other Materials:
 	* [Dick Barr's Operations Research Toolkit](http://lyle.smu.edu/~barr/ortoolkit/)
 	* [J E Beasley's OR-Notes](http://people.brunel.ac.uk/~mastjjb/jeb/or/contents.html)
 	* [AMPL: A Modeling Language for Mathematical Programming](http://www.ampl.com/BOOK/download.html) Chapters are free for download.
-
 
 ## Assignments ##
 
