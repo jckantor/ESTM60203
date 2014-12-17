@@ -161,7 +161,7 @@ Other Materials:
 * Lectures on Linear Programming
 	* Gilbert Strang: [Linear Programming and Duality](http://www.academicearth.org/lectures/linear-programming-and-duality)
 * Arthur V. Hill, "[The Newvendor Problem](http://www.clamshellbeachpress.com/downloads/newsvendor_problem.pdf)," Clamshell Beach Press, CBP WP 57-23, 2011. (Available as a free download from Clamshell Beach Press.)
-* [Applications of Optimization with Xpress-MP](http://www.dashoptimization.com/home/downloads/book/booka4.pdf) by Christelle Gueret, Christian Prins, and Marc Sevaux. Translated and revised by Susanne Heipcke. Published in 2002 by Dash Optimization, ISBN 0-9543503-0-8. Available from Amazon.com . Examples from this text can be downloaded from the FICO website.
+* [Applications of Optimization with Xpress-MP](http://www3.ntu.edu.sg/home/bernhard/lp/lp_book.pdf) by Christelle Gueret, Christian Prins, and Marc Sevaux. Translated and revised by Susanne Heipcke. Published in 2002 by Dash Optimization, ISBN 0-9543503-0-8. Available from Amazon.com.
 * Other Links
 	* [Dick Barr's Operations Research Toolkit](http://lyle.smu.edu/~barr/ortoolkit/)
 	* [J E Beasley's OR-Notes](http://people.brunel.ac.uk/~mastjjb/jeb/or/contents.html)
