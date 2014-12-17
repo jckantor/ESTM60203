@@ -81,8 +81,8 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 ##### Reading #####
 
-1. Leroy B. Schwarz. "[The Economic Order-Quantity (EOQ) Model](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_8)," pages 135-154 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-1. Hau L. Lee, V. Padmandbhan, and Seungjin Wang. "[The Bullwhip Effect in Supply Chains](http://web.a.ebscohost.com.proxy.library.nd.edu/ehost/detail/detail?sid=b15ab7db-fa11-4ed2-87f2-f164e26e1a40%40sessionmgr4001&vid=0&hid=4214&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=9712170320)," Sloan Management Review, Vol. 38, 93-102, 1997. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+1. Leroy B. Schwarz. "[The Economic Order-Quantity (EOQ) Model](http://link.springer.com/chapter/10.1007/978-0-387-73699-0_8)," pages 135-154 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available [here](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_8) to Notre Dame students and faculty through Hesburgh Library.)
+1. Hau L. Lee, V. Padmandbhan, and Seungjin Wang. "[The Bullwhip Effect in Supply Chains](http://scholar.google.com/scholar?q=The+Bullwhip+Effect+in+Supply+Chains&btnG=&hl=en&as_sdt=0%2C15)," Sloan Management Review, Vol. 38, 93-102, 1997. (Available [here](http://web.a.ebscohost.com.proxy.library.nd.edu/ehost/detail/detail?sid=b15ab7db-fa11-4ed2-87f2-f164e26e1a40%40sessionmgr4001&vid=0&hid=4214&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=9712170320) to Notre Dame students and faculty through Hesburgh Library.)
 
 ##### Simulation #####
 
@@ -105,16 +105,16 @@ Following the last session, students will be asked to use these concepts to prep
 
 ##### Reading #####
 
-1. Evan V. Porteus. "[The Newsvendor Problem](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_7)," pages 115-134 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
-1. Frank K. Crundwell. "[Decision Tree Analysis and Utility Theory](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_14)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Evan V. Porteus. "[The Newsvendor Problem](http://link.springer.com/chapter/10.1007/978-0-387-73699-0_7)," pages 115-134 in *Building Intuition: Insights From Basic Operations Management Models and Principles*, ed. Dilip Chhajed and Timothy J. Lowe, Springer, 2008. (Available [here](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-0-387-73699-0_7) to Notre Dame students and faculty through Hesburgh Library.)
+1. Frank K. Crundwell. "[Decision Tree Analysis and Utility Theory](http://link.springer.com/chapter/10.1007/978-1-84800-033-9_14)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available [here](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15) to Notre Dame students and faculty through Hesburgh Library.)
 1. William Poundstone. *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*,  Hill and Wang, 2008. (Available from [Amazon](http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos-ebook/dp/B000SBTWNC/ref=pd_sim_kstore_4?ie=UTF8&refRID=0BWSMTMXW8037RE9ATZR))
-1. Frank K. Crundwell. "[Real Options Analysis](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available to Notre Dame students and faculty through the e-book resources of Hesburgh Library.)
+1. Frank K. Crundwell. "[Real Options Analysis](http://link.springer.com/chapter/10.1007/978-1-84800-033-9_15)," pages 427-456 in *Finance for Engineers: Evaluation and Funding of Capital Projects*, Springer, 2008. (Available [here](http://link.springer.com.proxy.library.nd.edu/chapter/10.1007/978-1-84800-033-9_15) to Notre Dame students and faculty through Hesburgh Library.)
 1. Tom Copeland and Peter Tufano. "[Real-World Way to Manage Real Options](https://cb.hbsp.harvard.edu/cbmp/product/R0403G-PDF-ENG)," Harvard Business Review, 82(3), 90-99, 2004. Available as Harvard Business School Case R0403G-PDF-ENG, 11 pages, published Mar 1, 2004.
 
 ##### Case Study #####
 
 1. Andrew G. Sutherland and Jeffrey R. Williams. "Valuing Real Options: Insights from Competitive Strategy," pages 334-366 in *The Valuation Handbook: Valuation Techniques from Today's Top Practitioners*, ed. Rawley Thomas and Benten E. Gup, Wiley, 2010. (Available as a teaching preprint from [Research Showcase @ CMU](http://repository.cmu.edu/tepper/540/) at the Tepper School of Business, Carnegie-Mellon University.)
-1. Richard L. Shockley. "[The Option Value of an Early-Stage Biotechnology Investment](http://onlinelibrary.wiley.com.proxy.library.nd.edu/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract)," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available to Notre Dame students and faculty through the e-journal resources of Hesburgh Library.)
+1. Richard L. Shockley. "[The Option Value of an Early-Stage Biotechnology Investment](http://onlinelibrary.wiley.com/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract)," Journal of Applied Corporate Finance, Vol. 15, 44-55, 2003. (Available [here](http://onlinelibrary.wiley.com.proxy.library.nd.edu/doi/10.1111/j.1745-6622.2002.tb00694.x/abstract) to Notre Dame students and faculty through Hesburgh Library.)
 
 
 ## Instructor ##
