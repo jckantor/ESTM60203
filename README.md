@@ -9,6 +9,10 @@ Syllabus
 
 ### 1. Maximizing Profits  ###
 
+<div style="float: right">
+<img src="https://github.com/jckantor/ESTM60203/blob/master/notebooks/img/LPprob01.png" alt="Your alt text" title="Title"/>
+</div>
+
 If you have ever needed to fit one more task into an overbooked calendar, or one more item into an overtaxed budget, then you  understand the difficult decisions one makes when working in tightly constrained situations. Working against constraints requires that you make tradeoffs between good alternatives, that you understand the penalties imposed on an objective by the constraints, and the relationships between decisions and objectives.
 
 In this unit we examine the problem of maximizing profits subject to linear relationships between resources, constraints, and objectives. We will see that maximizing profits means operating against constraints. When operating at conditions for maximum profit, we can calculate the value of additional resources (i.e., the 'shadow prices'), the cost of changing the product mix (i.e, the 'opportunity' or 'reduced' costs), and thereby gain important insights on how profits could be increased.
