@@ -1,13 +1,9 @@
 Syllabus
 =========
 
-* [Course Syllabus](https://github.com/jckantor/ESTM60203/blob/master/Syllabus.md)
-
-Notebooks
-=========
-
 ### 0. Getting Started ###
 
+* [Detailed Course Syllabus](https://github.com/jckantor/ESTM60203/blob/master/Syllabus.md)
 * [Getting Started with IPython](http://nbviewer.ipython.org/github/jckantor/CBE20255/blob/master/notebooks/Getting%20Started%20with%20IPython.ipynb)
 * [Getting Started with GNU MathProg](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20GNU%20MathProg.ipynb)
 
