@@ -1,2 +1,3 @@
-Display statement at line 16
-x.val = 40
+Profit = $2600.00 per week
+x =   20.00 units per week
+y =   60.00 units per week
