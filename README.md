@@ -9,7 +9,7 @@ Syllabus
 
 ### 1. Maximizing Profits  ###
 
-<img src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/LPprob01.png" alt="Your alt text" title="Title"/ width="240" height="240" style="float: right">
+<img src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/LPprob01.png" alt="Your alt text" title="Title"/ width="240" height="240" align="center">
 
 If you have ever needed to fit one more task into an overbooked calendar, or one more item into an overtaxed budget, then you  understand the difficult decisions one makes when working in tightly constrained situations. Working against constraints requires that you make tradeoffs between good alternatives, that you understand the penalties imposed on an objective by the constraints, and the relationships between decisions and objectives.
 
