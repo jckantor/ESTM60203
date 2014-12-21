@@ -1,0 +1,33 @@
+\documentclass[tikz,convert={density=300,outext=.png}]{standalone}
+\usepackage{helvet}
+\usepackage[T1]{sansmath}
+\renewcommand{\familydefault}{\sfdefault}
+\normalfont
+
+\begin{document}
+\begin{sansmath}
+
+\tikzstyle{state} = [
+    draw,very thick,
+    minimum height = 1cm,
+    fill=blue!05,
+    circle,
+    text centered]
+
+\begin{tikzpicture}[auto, thick, 
+    text height=1.5ex,
+    text depth=0.25ex]
+    
+  %\draw[help lines] (0,0) grid (10,6);
+  
+  \node[state] (A) at (1,3) {\$1};
+  \node[state] (B) at (4,4) {\$2};
+  \node[state] (C) at (4,2) {\$0};
+  
+  \draw[->,thick] (A) -- (B) node[midway,above] {$p$};
+  \draw[->,thick] (A) -- (C) node[midway,below] {$1-p$};
+  
+\end{tikzpicture}
+
+\end{sansmath}
+\end{document}
