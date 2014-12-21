@@ -113,7 +113,7 @@ Following the last session, students will be asked to use these concepts to prep
 * [Newsvendor Problem](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Newsvendor%20Problem.ipynb)
 * Decision Trees
 * Modeling Aversion to Risk with Utility Functions
-* [Log-Optimal Growth and the Kelly Criterion](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Log-optimal_Growth_and_the_Kelly_Criterion.ipynb)
+* [Log-Optimal Growth and the Kelly Criterion](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Log-optimal_Growth_and_the_Kelly_Criterion.ipynb)
 * [Stochastic Price Models](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Stochastic%20Price%20Models.ipynb)
 * [Portfolio Optimization using Mean Absolute Deviation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Portfolio%20Optimization%20using%20Mean%20Absolute%20Deviation.ipynb)
 * Real Options
