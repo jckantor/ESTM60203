@@ -78,13 +78,15 @@ The first class session will be devoted to an in-class simulation of a car wash 
 
 ### 4. Supply Chains and Dynamics ###
 
+<img align="right" src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/InventoryManagementEOQ.png" alt="" title="Title"/ width="240" height="240" >
+
 Supply chains refers to system of suppliers, distribution channels, and logistical operations that allow a business to produce goods and deliver them to market. Maintaing flexible and efficient supply chains are critical to modern operations. This unit will introduce basic concepts in inventory management, the causes of unstable dynamical behavior in supply chains, and tools for simulating the performance of complex operations.
 
 The unit will comprise three class sessions. The first will basic economic concepts of inventory management, and how they lead to economic order quantity, replenishment strategies, the determination of safety stocks, and economy of scale associated with large warehouse operations. The second session is devoted to an in-class simulation to illustrate the potential for unstable dynamics in a manufacturer - distributor - retailer - customer supply chain and the critical role of information flow. The third class session will review the results of the simulation exercise, and demonstrate methods for simulating the behavior of discrete logistical operations.
 
 ##### Notebooks #####
 
-* Inventory Management
+* [Inventory Management](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Inventory%20Management.ipynb)
 * Supply chain dynamics and the role of information (Root Beer Game Simulation)
 * [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
 * [Warehouse Fulfillment Operations](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Warehouse%20Fulfillment%20Operations.ipynb)
