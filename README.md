@@ -78,7 +78,7 @@ The first class session will be devoted to an in-class simulation of a car wash 
 
 ### 4. Supply Chains and Dynamics ###
 
-<img align="right" src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/InventoryManagementEOQ.png" alt="" title="Title"/ width="240" height="240" >
+<img align="right" src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/InventoryManagementEOQ.png" alt="" title="Title"/ width="300" height="210" >
 
 Supply chains refers to system of suppliers, distribution channels, and logistical operations that allow a business to produce goods and deliver them to market. Maintaing flexible and efficient supply chains are critical to modern operations. This unit will introduce basic concepts in inventory management, the causes of unstable dynamical behavior in supply chains, and tools for simulating the performance of complex operations.
 
