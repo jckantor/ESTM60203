@@ -104,6 +104,8 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 ### 5. Uncertainty, Risk, and Diversification ###
 
+<img align="right" src="https://raw.githubusercontent.com/jckantor/ESTM60203/master/notebooks/img/StochasticPriceModelBootstrap.png" alt="" title="Title"/ width="300" height="210" >
+
 The final unit of the course focuses on making operational decisions in the face of financial uncertainties. The topics address issues of information, the critical distinction between 'here-and-now' decisions versus 'wait-and-see' decisions, measuring financial risk, and balancing risk and return when making operational decisions. Basic concepts of probability, expected value, and economic utility will be used to demonstrate the profound difference between optimzing for average wealth versus growth. The concepts will be applied to analyzing the 'real options' present in many business situations.
 
 Four sessions are allocated to this unit in order to introduce a range of economic, finance, and statistical concepts. The first session will discuss two-stage decision making under uncertainty in the context of the newsvendor problem.  The second session will show how to model multi-stage problems with decision trees, and how to quantify risk and return with the economic concept of utility. For the third class session, students will be asked to read the book length *Fortune's Formula* to establish a context for discussing the theoretical advantage of managing for growth versus average outcome. We will then show how these concepts can be applied to hedge risk in a portfolio of assets. The final class session will show how to appropriately apply these concepts to find value in the 'real options' common in many multi-stage business decisions.
@@ -114,7 +116,7 @@ Following the last session, students will be asked to use these concepts to prep
 
 * [Newsvendor Problem](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Newsvendor%20Problem.ipynb)
 * Decision Trees
-* [Stochastic Price Models](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Stochastic%20Price%20Models.ipynb)
+* [Stochastic Price Models](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Stochastic%20Price%20Models.ipynb)
 * Modeling Aversion to Risk with Utility Functions
 * [Log-Optimal Growth and the Kelly Criterion](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Log-optimal_Growth_and_the_Kelly_Criterion.ipynb)
 * [Portfolio Optimization using Mean Absolute Deviation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Portfolio%20Optimization%20using%20Mean%20Absolute%20Deviation.ipynb)
