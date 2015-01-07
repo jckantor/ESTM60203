@@ -8,6 +8,8 @@ Introduction to the applications of operations research including blending probl
 
 The Operations Management component of the ESTEEM program will be taught in a series of fourteen 75 minute classroom discussions. Coverage will correspond to the topics listed below, with relative emphasis and additional topics dependent on student interest.
 
+### 0. Overview of Operations Research in Business Operations (1 session) ###
+
 ### 1. Maximizing Profits (2 sessions) ###
 
 * What is optimization and mathematical programming? 
@@ -19,7 +21,7 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * Elements of modeling business decisions.
 * Mixing, assignment, transportation, flow, and other commons paradigm for business decisions.  
 
-### 3. Planning and Scheduling (3 sessions) ###
+### 3. Planning and Scheduling (2 sessions) ###
 
 * Flow Shops
 * Critical Path Method, PERT, and Critical Chain methods for project management
@@ -52,6 +54,9 @@ The Operations Management component of the ESTEEM program will be taught in a se
 *  574-699-3525 (Google Voice) / 574-532-4233 (Mobile) / 574-631-5797 (Office) 
 
 ## Other Materials #
+
+
+### Materials to Buy ###
 
 
 ### Software ##
@@ -94,6 +99,11 @@ Other Materials:
 
 Assignments are integral part of the learning experience. Students will develop and solve models for case studies, some additional exercises, and develop an application in their own area of interest.
 
+* 
+* 
+* 
+* 
+
 ## Learning Outcomes
 
 This module provides an overview of selected concepts in Applied Operations Research. The course is organized around a general theme of modeling and optimization for process operations, with the main attention on techniques for modeling and solving problems in process operations, managing complex systems of activities, and understanding the role of uncertainty in capital allocation and planning.
@@ -110,6 +120,6 @@ Students completing this module will be able to:
 8. Prepare decision trees and solve for expected mean value, expected value of perfect information.
 9. Analyze case studies using selected tools from Operations Research.
 
-## Grading #
+## Grading (Update) ##
 
 A grade will be assigned based on in-class participation and performance on assignments, a short project, and a course project. The project will be due on the last day of the course.
