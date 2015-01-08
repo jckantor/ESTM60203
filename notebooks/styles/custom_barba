@@ -27,7 +27,8 @@
        }
     h5 {
         font-family: 'Alegreya Sans', sans-serif;
-    }	   
+    }
+
     div.text_cell_render{
         font-family: 'Alegreya Sans',Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
         line-height: 135%;
@@ -40,9 +41,6 @@
             font-family: "Source Code Pro";
 			font-size: 90%;
     }
-/*    .prompt{
-        display: None;
-    }*/
     .text_cell_render h1 {
         font-weight: 200;
         font-size: 40pt;

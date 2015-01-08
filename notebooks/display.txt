@@ -1,2 +1,2 @@
-Profit = $2400.00 per week
-y =   80.00 units per week
+Profit = $1600.00 per week
+x =   40.00 units per week
