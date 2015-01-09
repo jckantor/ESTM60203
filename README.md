@@ -3,9 +3,11 @@ Syllabus
 
 *ESTM 60203: Introduction to Applied Operations Research* is a 1.5 credit, 14 class session introduction to selected concepts and analytical tools of Operations Research with broad application in business.
 
-### 0. Getting Started ###
-
 * [Course Details including Calendar, Required Materials, and Contact Information](http://htmlpreview.github.io/?https://github.com/jckantor/ESTM60203/blob/master/Syllabus.html)
+
+
+### 0. Getting Started Guides ###
+
 * [Getting Started with IPython](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Getting%20Started%20with%20IPython.ipynb)
 * [Getting Started with GNU MathProg](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Getting%20Started%20with%20GNU%20MathProg.ipynb)
 
