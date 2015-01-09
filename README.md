@@ -63,7 +63,7 @@ The first class session will be devoted to an in-class simulation of a car wash 
 
 * Critical Path, PERT, and other applications fo Project Management
 * Empirical Scheduling Methods
-* [Machine and Job Shop Scheduling](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Machine%20Scheduling.ipynb)
+* [Machine and Job Shop Scheduling](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Machine%20Bottleneck.ipynb)
 * [Jesuit Volunteers Corps](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Jesuit%20Volunteer%20Corps.ipynb)
 * Vehicle Routing and other Logistical Operations
 
