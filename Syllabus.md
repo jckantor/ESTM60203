@@ -27,7 +27,7 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * Critical Path Method, PERT, and Critical Chain methods for project management
 * Sequencing Tasks and Jobs for bottleneck operations
 
-### 4. Understanding Supply Chain Dynamics (3 sessions) ###
+### 4. Understanding Supply Chain Dynamics (2sessions) ###
 
 * Inventory Management, Economic Order Quantity
 * Supply chain dynamics and the role of information (Beer Game Simulation)
@@ -53,11 +53,45 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * [Kantor.1@nd.edu](mailto:Kantor.1@nd.edu) -- *this is the best way to reach me*
 *  574-699-3525 (Google Voice) / 574-532-4233 (Mobile) / 574-631-5797 (Office) 
 
-## Other Materials #
+## Calendar ##
+
+| Date | Topic | Case Study Due|
+| - | - | - |
+| Mon, Mar 16 | Overview | |
+| Wed, Mar 18 | Maximizing Profits Part 1. | |
+| Mon, Mar 23 | Maximizing Profits Part 2. | Landhills Winery|
+| Wed, Mar 25 | Modeling Business Decisions Part 1.| |
+| Mon, Mar 30 | Modeling Business Decisions Part 2.| DHL Supply Chain |
+| Wed, Apr 1 | Planning and Scheduling Part 1. | |
+| Wed, Apr 8 | Planning and Scheduling Part 2. | MS Bicycle Tour | 
+| Mon, Apr 13 | Supply Chain Dynamics Part 1. | |
+| Wed, Apr 15 | Supply Chain Dynamics Part 2. | Beer Game Simulation |
+| Mon, Apr 20 | Uncertainty and Risk Part 1. | |
+| Wed, Apr 22 | Uncertainty and Risk Part 2. | |
+| Mon, Apr 27 | Uncertainty and Risk Part 3. | "Fortune's Formula" |
+| Wed, Apr 29 | Uncertainty and Risk Part 4. | |
+| Tue, May 5 | | Real Options |
 
 
-### Materials to Buy ###
+## Required Materials ##
 
+### Materials to Purchase
+
+Every effort has been made to keep the tailor the materials to the topics in the course, and to avoid unneed expense. The following coursepack should be purchased by all students --
+
+* A course pack consisting of five case studies and one supply chain simulation is available from the Harvard Business School Press. Use this link [https://cb.hbsp.harvard.edu/cbmp/access/32129411](https://cb.hbsp.harvard.edu/cbmp/access/32129411) to order the course pack. The course pack is delivered electronicall with an option to order a paper copy of the case studies.
+
+These two books are popularized accounts of key topics that will be discussed in the course. These are inexpensive (especially in ebook form), relatively quick reads, that will add to your understanding of the course material.
+
+* Andreas Scherer. *Be Fast or Be Gone: Racing the Clock with Critical Chain Project Management*, 234 pages, Prochain Solutions Inc, 2011. (Available from [Amazon](http://www.amazon.com/Be-Fast-Gone-Critical-Management/dp/1934979074).)
+
+* William Poundstone. *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*,  Hill and Wang, 2008. (Available from [Amazon](http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos-ebook/dp/B000SBTWNC/ref=pd_sim_kstore_4?ie=UTF8&refRID=0BWSMTMXW8037RE9ATZR))
+
+This book is highly recommended for those who wish to apply linear optimization tools to real-world business problems. The text, now in its fifth edition, was developed by a professor at the London School of Economics, and is one of the most widely known books its kind.
+
+* H. Paul Williams. [*Model Building in Mathematical Programming*](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118443330.html), 5th Edition, 432 pages, Wiley, 2013. (Available from [Amazon](http://www.amazon.com/Model-Building-Mathematical-Programming-Williams-ebook/dp/B00B8Y6MIG%3FSubscriptionId%3D14BJ8ZEX3WNZS76SDCG2%26tag%3Dwwwwileycom-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00B8Y6MIG).)
+
+All other course materials available through Hesburgh library or on-line.
 
 ### Software ##
 
@@ -65,6 +99,7 @@ A key objective of this course is to provide students with the skills necessary 
 
 * **IPython.** Many of the course topics will be illustrated with examples coded and made available in the form of [IPython notebooks](http://jckantor.github.io/ESTM60203/).
 * **GLPK/MathProg.** GLPK/MathProg is provides open source implementation of AMPL, an industry standard  language for operations and decisions. This course will use a [unique, web-based implementation](http://www3.nd.edu/~jeff/mathprog/mathprog.html) to facilitate learning and subsequent applications development.
+
 
 
 ### Supplementary Materials ##
@@ -97,12 +132,7 @@ Other Materials:
 
 ## Assignments ##
 
-Assignments are integral part of the learning experience. Students will develop and solve models for case studies, some additional exercises, and develop an application in their own area of interest.
-
-* 
-* 
-* 
-* 
+Assignments are integral part of the learning experience. Students will develop and solve models for case studies,
 
 ## Learning Outcomes
 
@@ -120,6 +150,6 @@ Students completing this module will be able to:
 8. Prepare decision trees and solve for expected mean value, expected value of perfect information.
 9. Analyze case studies using selected tools from Operations Research.
 
-## Grading (Update) ##
+## Grading ##
 
-A grade will be assigned based on in-class participation and performance on assignments, a short project, and a course project. The project will be due on the last day of the course.
+A grade will be assigned based on in-class participation and performance on case study projects and final project. Case studies and final project will be turned for grading via the Sakai course management system.  Components grades will be on a 5-10 point scale (10-20 for the final project), totaled, and adjusted based on class participation to determine a course letter grade.
