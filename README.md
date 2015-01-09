@@ -42,8 +42,8 @@ The unit will comprise two class sessions. In the first we will survey several b
 
 ##### Notebooks #####
 
-* [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Transportation%20Networks.ipynb)
-* [Assignment Problems](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Assignment%20Problems.ipynb)
+* [Transportation Networks](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Transportation%20Networks.ipynb)
+* [Assignment Problems](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Assignment%20Problems.ipynb)
 
 ##### Reading #####
 
@@ -63,8 +63,8 @@ The first class session will be devoted to an in-class simulation of a car wash 
 
 * Critical Path, PERT, and other applications fo Project Management
 * Empirical Scheduling Methods
-* [Machine and Job Shop Scheduling](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Machine%20Scheduling.ipynb)
-* [Jesuit Volunteers Corps](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Jesuit%20Volunteer%20Corps.ipynb)
+* [Machine and Job Shop Scheduling](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Machine%20Scheduling.ipynb)
+* [Jesuit Volunteers Corps](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Jesuit%20Volunteer%20Corps.ipynb)
 * Vehicle Routing and other Logistical Operations
 
 ##### Reading #####
@@ -90,8 +90,8 @@ The unit will comprise three class sessions. The first will basic economic conce
 
 * [Inventory Management](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Inventory%20Management.ipynb)
 * Supply chain dynamics and the role of information (Root Beer Game Simulation)
-* [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
-* [Warehouse Fulfillment Operations](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Warehouse%20Fulfillment%20Operations.ipynb)
+* [Getting Started with Discrete Event Simulation](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Getting%20Started%20with%20Discrete%20Event%20Simulation.ipynb)
+* [Warehouse Fulfillment Operations](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Warehouse%20Fulfillment%20Operations.ipynb)
 
 ##### Reading #####
 
@@ -114,12 +114,12 @@ Following the last session, students will be asked to use these concepts to prep
 
 ##### Notebooks #####
 
-* [Newsvendor Problem](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Newsvendor%20Problem.ipynb)
+* [Newsvendor Problem](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Newsvendor%20Problem.ipynb)
 * Decision Trees
 * [Stochastic Price Models](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Stochastic%20Price%20Models.ipynb)
 * Modeling Aversion to Risk with Utility Functions
 * [Log-Optimal Growth and the Kelly Criterion](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Log-optimal_Growth_and_the_Kelly_Criterion.ipynb)
-* [Portfolio Optimization using Mean Absolute Deviation](http://nbviewer.ipython.org/github/jckantor/CBE40455/blob/master/notebooks/Portfolio%20Optimization%20using%20Mean%20Absolute%20Deviation.ipynb)
+* [Portfolio Optimization using Mean Absolute Deviation](http://nbviewer.ipython.org/github/jckantor/ESTM60203/blob/master/notebooks/Portfolio%20Optimization%20using%20Mean%20Absolute%20Deviation.ipynb)
 * Real Options
 
 ##### Reading #####
