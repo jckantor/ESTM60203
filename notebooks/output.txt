@@ -1,20 +1,36 @@
-Problem:    stdin
-Rows:       4
-Columns:    1
-Non-zeros:  4
+Problem:    TransportNet
+Rows:       9
+Columns:    12
+Non-zeros:  36
 Status:     OPTIMAL
-Objective:  Profit = 1600 (MAXimum)
+Objective:  Cost = 1715 (MINimum)
 
    No.   Row name   St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
-     1 Profit       B           1600                             
-     2 Demand       NU            40                          40            40 
-     3 LaborA       B             40                          80 
-     4 LaborB       B             80                         100 
+     1 Cost         B           1715                             
+     2 SRC[Arn]     NU           550                         550          -0.2 
+     3 SRC[Gou]     B            650                         700 
+     4 DST[Lon]     NS           125           125             =           2.5 
+     5 DST[Ber]     NS           175           175             =           2.7 
+     6 DST[Maa]     NS           225           225             =           1.8 
+     7 DST[Ams]     NS           250           250             =             1 
+     8 DST[Utr]     NS           225           225             =             1 
+     9 DST[Hag]     NS           200           200             =           0.8 
 
    No. Column name  St   Activity     Lower bound   Upper bound    Marginal
 ------ ------------ -- ------------- ------------- ------------- -------------
-     1 x            B             40             0               
+     1 x[Lon,Arn]   NL             0             0                       997.7 
+     2 x[Lon,Gou]   B            125             0               
+     3 x[Ber,Arn]   B            175             0               
+     4 x[Ber,Gou]   NL             0             0                       997.3 
+     5 x[Maa,Arn]   B            225             0               
+     6 x[Maa,Gou]   NL             0             0                         0.2 
+     7 x[Ams,Arn]   NL             0             0                         0.6 
+     8 x[Ams,Gou]   B            250             0               
+     9 x[Utr,Arn]   B            150             0               
+    10 x[Utr,Gou]   B             75             0               
+    11 x[Hag,Arn]   NL             0             0                         0.8 
+    12 x[Hag,Gou]   B            200             0               
 
 Karush-Kuhn-Tucker optimality conditions:
 
@@ -26,8 +42,8 @@ KKT.PB: max.abs.err = 0.00e+00 on row 0
         max.rel.err = 0.00e+00 on row 0
         High quality
 
-KKT.DE: max.abs.err = 0.00e+00 on column 0
-        max.rel.err = 0.00e+00 on column 0
+KKT.DE: max.abs.err = 4.53e-14 on column 1
+        max.rel.err = 7.55e-15 on column 1
         High quality
 
 KKT.DB: max.abs.err = 0.00e+00 on row 0
