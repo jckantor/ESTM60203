@@ -1,7 +1,7 @@
 Syllabus
 =========
 
-*ESTM 60203: Introduction to Applied Operations Research* is a 1.5 credit, 14 class session introduction to selected concepts and analytical tools of Operations Research with broad application in business.
+* ESTM 60203: Introduction to Applied Operations Research* is a 1.5 credit, 14 class session introduction to selected concepts and analytical tools of Operations Research with broad application in business.
 
 * [Course Details including Calendar, Required Materials, and Contact Information](http://htmlpreview.github.io/?https://github.com/jckantor/ESTM60203/blob/master/Syllabus.html)
 
