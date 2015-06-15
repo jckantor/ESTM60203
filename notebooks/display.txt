@@ -1,7 +1,8 @@
-Profit = 809905.50
+Profit = $2600.00 per week
 
- wSB11   52631.0   50000.0        0.0        0.0     2631.0   
- wSL10       0.0       0.0        0.0        0.0        0.0   
- wSL11       0.0       0.0        0.0        0.0        0.0   
- wCabS   93061.0       0.0    60000.0     9796.0    23265.0   
- wMerl  121224.0       0.0        0.0    20204.0   101020.0   
+x =   20.00 units per week
+y =   60.00 units per week
+
+Demand =   20.00 units           0.00
+LaborA =   80.00 hours          20.00
+LaborB =  100.00 hours          10.00
