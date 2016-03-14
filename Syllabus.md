@@ -27,7 +27,7 @@ The Operations Management component of the ESTEEM program will be taught in a se
 * Critical Path Method, PERT, and Critical Chain methods for project management
 * Sequencing Tasks and Jobs for bottleneck operations
 
-### 4. Understanding Supply Chain Dynamics (2sessions) ###
+### 4. Understanding Supply Chain Dynamics (2 sessions) ###
 
 * Inventory Management, Economic Order Quantity
 * Supply chain dynamics and the role of information (Beer Game Simulation)
@@ -57,21 +57,19 @@ The Operations Management component of the ESTEEM program will be taught in a se
 
 | Date | Topic | Case Study Due|
 | - | - | - |
-| Mon, Mar 16 | Overview | |
-| Wed, Mar 18 | Maximizing Profits Part 1. | |
-| Mon, Mar 23 | Maximizing Profits Part 2. | Landhills Winery|
-| Wed, Mar 25 | Modeling Business Decisions Part 1.| |
-| Mon, Mar 30 | Modeling Business Decisions Part 2.| DHL Supply Chain |
-| Wed, Apr 1 | Planning and Scheduling Part 1. | |
-| Wed, Apr 8 | Planning and Scheduling Part 2. | MS Bicycle Tour | 
-| Mon, Apr 13 | Supply Chain Dynamics Part 1. | |
-| Wed, Apr 15 | Supply Chain Dynamics Part 2. | Beer Game Simulation |
-| Mon, Apr 20 | Uncertainty and Risk Part 1. | |
-| Wed, Apr 22 | Uncertainty and Risk Part 2. | |
-| Mon, Apr 27 | Uncertainty and Risk Part 3. | "Fortune's Formula" |
-| Wed, Apr 29 | Uncertainty and Risk Part 4. | |
-| Tue, May 5 | | Real Options |
-
+| Mon, Mar 14 | Overview | |
+| Wed, Mar 16 | Maximizing Profits Part 1. | |
+| Mon, Mar 21 | Maximizing Profits Part 2. | Landhills Winery|
+| Wed, Mar 23 | Modeling Business Decisions Part 1.| |
+| Wed, Mar 30 | Modeling Business Decisions Part 2.| DHL Supply Chain |
+| Mon, Apr 4 | Planning and Scheduling Part 1. | |
+| Wed, Apr 6 | Planning and Scheduling Part 2. | MS Bicycle Tour | 
+| Mon, Apr 11 | Supply Chain Dynamics Part 1. | |
+| Wed, Apr 13 | Supply Chain Dynamics Part 2. | Beer Game Simulation |
+| Mon, Apr 18 | Uncertainty and Risk Part 1. | |
+| Wed, Apr 20 | Uncertainty and Risk Part 2. | |
+| Mon, Apr 25 | Uncertainty and Risk Part 3. | "Fortune's Formula" |
+| Wed, Apr 27 | Uncertainty and Risk Part 4. | |
 
 ## Required Materials ##
 
