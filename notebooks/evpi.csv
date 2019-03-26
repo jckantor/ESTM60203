@@ -1,0 +1,4 @@
+Scenario,Probability,Demand,Order,Sold,Salvage,Profit
+"HiDmd",0.25,250,250,250,0,1000
+"MiDmd",0.5,125,125,125,0,500
+"LoDmd",0.25,75,75,75,0,300
